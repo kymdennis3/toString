@@ -1,5 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        /* toString() = special method that all objects inherit,
+                        that returns a string that "textually represents" an object
+                        can be use both implicitly and explicitly
+         */
+
+        Car car = new Car();
+
+        System.out.println(car.toString());
+
     }
 }
