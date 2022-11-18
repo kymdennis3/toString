@@ -7,7 +7,9 @@ public class Car {
 
     public String toString(){
 
-        return make +"\n"+ model + "\n"+ colour +"\n"+ year;
+        String myString = make +"\n"+ model + "\n"+ colour +"\n"+ year;
+
+        return myString;
 
     }
 }
