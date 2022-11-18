@@ -8,7 +8,9 @@ public class Main {
 
         Car car = new Car();
 
-        System.out.println(car.toString());
+        //System.out.println(car.toString());
+
+        System.out.println(car);
 
     }
 }

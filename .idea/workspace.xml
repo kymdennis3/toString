@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6517e2f9-6b01-4445-9ba6-8b90a0a02858" name="Changes" comment="returning the string that represents the object implicitly">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6517e2f9-6b01-4445-9ba6-8b90a0a02858" name="Changes" comment="returning the string that represents the object explicitly">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668675946339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="returning the string that represents the object implicitly">
+      <created>1668791947078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668791947078</updated>
+    </task>
+    <task id="LOCAL-00004" summary="returning the string that represents the object explicitly">
+      <created>1668792053041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668792053041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,8 +86,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="returning the string that represents the object explicitly" />
     <MESSAGE value="returning the string that represents the object implicitly" />
-    <option name="LAST_COMMIT_MESSAGE" value="returning the string that represents the object implicitly" />
+    <MESSAGE value="returning the string that represents the object explicitly" />
+    <option name="LAST_COMMIT_MESSAGE" value="returning the string that represents the object explicitly" />
   </component>
 </project>
