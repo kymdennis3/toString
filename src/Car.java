@@ -1,8 +1,8 @@
 public class Car {
 
-    String make = "Ford";
-    String model = "Ranger";
-    String colour = "Brown";
+    String make = "Lexus";
+    String model = "570";
+    String colour = "White";
     int year = 2022;
 
     public String toString(){
