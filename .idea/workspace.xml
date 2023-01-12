@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672848521464</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="returning the string that represents the object implicitly using car instead of car.toString()">
+      <created>1673370144979</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673370144979</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
